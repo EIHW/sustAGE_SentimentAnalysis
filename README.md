@@ -33,5 +33,8 @@ If you use the code from this repository, you are kindly asked to cite the follo
 
 **[TBD]**
 
+## License
+The code and the model weights are released under the MIT License.
+
 ## Acknowledgements
 The research and development of this toolkit has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No. 826506 (sustAGE).
